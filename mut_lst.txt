@@ -1,0 +1,19 @@
+$RUMBIE et al Mutations
+*Novel_RAL:
+####
+S24N
+S39C
+L63I
+V75M
+I84M
+^^^
+***
+$STANFORD UNI HIVDR Database
+*BIC:
+####
+T66K
+E92Q
+G118R
+E138K
+E138A
+^^^
